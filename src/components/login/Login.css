@@ -1,0 +1,111 @@
+.login-overlow {
+    width: 100vw;
+    height: 100vh;
+    background-color: #0000006f;
+    position: absolute;
+    top: 0;
+    z-index: 245;
+}
+
+.login-container {
+    width: 460px;
+    height: 350px;
+    background-color: white;
+    margin: 0;
+    position: fixed;
+    top: 51.5%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: 250;
+    border-radius: 10px;
+}
+
+.login-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f7f7f7;
+    padding: 15px 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.login-exit {
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    font-size: 20px;
+    border: 1px solid #ececec;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-form {
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login-input {
+    height: 48px;
+    border: 0px solid #d5d8df;
+    border-radius: 6px;
+    background: transparent;
+    position: relative;
+    padding: 0 17px;
+    width: 100%;
+    z-index: 1;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    box-shadow: 0 0 0 1px #d5d8df;
+    outline: none;
+}
+
+.login-input:focus {
+    border: 2px solid rgb(245, 207, 83);
+}
+
+.login-btn {
+    cursor: pointer;
+    background: #fbc100;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: .4px;
+    color: #333;
+    padding: 11px 10px;
+    border: none;
+    font-family: 'Roboto-Medium';
+}
+
+.login-btn:hover {
+    background-color: rgb(203, 161, 20);
+}
+
+.login-btn1 {
+    cursor: pointer;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: .4px;
+    color: #333;
+    padding: 11px 10px;
+    border: 1px solid black;
+    font-family: 'Roboto-Medium';
+}
+
+@media only screen and (max-width:500px) {
+    .login {
+        display: none;
+    }
+}

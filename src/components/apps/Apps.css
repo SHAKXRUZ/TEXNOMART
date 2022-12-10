@@ -1,0 +1,88 @@
+.apps {
+    max-width: 1488px;
+    margin: 0 auto;
+    padding: 0 32px;
+}
+
+.app-banner {
+    padding: 0 90px 0 120px;
+    background-color: #f7f7f7;
+    border-radius: 16px;
+    margin-bottom: 68px;
+    display: flex;
+}
+
+.app-banner-left {
+    margin: 0 130px 0 0;
+    position: relative;
+    max-width: 475px;
+    width: 100%;
+}
+
+.app-banner-right {
+    padding: 50px 0px;
+}
+
+.app-banner-title {
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 140%;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.app-banner-text {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    max-width: 420px;
+    color: #333;
+    font-weight: 400;
+}
+
+.app-banner-qr {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.app-qr {
+    width: 112px;
+    height: 122px;
+}
+
+.app-qr-text {
+    max-width: 180px;
+    font-weight: 400;
+    color: #333;
+    line-height: 25px;
+}
+
+.app-banner-play-market {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:1160px) {
+    .app-banner {
+        padding: 0 50px 0 50px;
+        margin-bottom: 68px;
+    }
+
+    .app-banner-qr {
+        gap: 20px;
+    }
+
+    .app-banner-left {
+        margin: 0 50px 0 0;
+        position: relative;
+        max-width: 475px;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .apps {
+        display: none;
+    }
+}

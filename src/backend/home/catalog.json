@@ -1,0 +1,452 @@
+[{
+        "title": "Maishiy texnika",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/texnika_dlya_doma.svg",
+        "textGroup": [{
+            "title": "TIKUV MASHINALARI",
+            "text": [
+                "Chayka",
+                "Aurora",
+                "Janome",
+                "Bernette",
+                "Оверлоки",
+                "Швейные наборы"
+            ]
+        }, {
+            "title": "BUG' GENERATORLARI",
+            "text": [
+                "Электрические парогенераторы",
+                "Парогенераторы Rowenta",
+                "Парогенераторы Philips",
+                "Парогенераторы Braun",
+                "Парогенераторы Bosch",
+                "Парогенераторы Tefal"
+            ]
+        }, {
+            "title": "SIMSIZ CHANGYUTGICH",
+            "text": [
+                "Вертикальные беспроводные пылесосы",
+                "Беспроводные пылесосы для дома",
+                "Беспроводные пылесосы Polaris",
+                "Беспроводные пылесосы Philips",
+                "Беспроводные пылесосы Tefal",
+                "Беспроводные пылесосы LG"
+            ]
+        }, {
+            "title": "KIR YUVISH MASHINALARI",
+            "text": [
+                "Все марки стиральных машин",
+                "Стиральные машины Whirlpool",
+                "Стиральные машины Electrolux",
+                "Стиральные машины Samsung",
+                "Стиральные машины Indesit",
+                "Стиральные машины Shivaki",
+                "Стиральные машины Bosch"
+            ]
+        }]
+    },
+    {
+        "title": "Ofis jihozlari",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/ofisnaya_texnika.svg",
+        "textGroup": [{
+            "title": "OFIS NOUTBUKLARI",
+            "text": [
+                "Принтеры от HP"
+            ]
+        }, {
+            "title": "OFIS MONITORLARI"
+        }, {
+            "title": "WI-FI ROUTERLAR",
+            "text": [
+                "Все марки Wi-fi",
+                "TP-Link роутеры",
+                "D-Link роутеры",
+                "Xiaomi роутеры",
+                "Tenda роутеры"
+            ]
+        }, {
+            "title": "QOG'OZ MAYDALAGICHLAR"
+        }]
+    },
+    {
+        "title": "Oshxona uchun texnika",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/texnika_dlya_kuxni.svg",
+        "textGroup": [{
+            "title": "KICHIK USKUNALAR",
+            "text": [
+                "Блендеры",
+                "Вакууматоры",
+                "Вафельницы",
+                "Грили",
+                "Кухонные весы",
+                "Кухонные комбайны",
+                "Микроволновые печи"
+            ]
+        }, {
+            "title": "KATTA OSHXONA ANJOMLARI",
+            "text": [
+                "Холодильники",
+                "Морозильники",
+                "Газовые плиты",
+                "Посудомоечные машины"
+            ]
+        }, {
+            "title": "O'RNATILADIGAN MAISHIY TEXNIKA",
+            "text": [
+                "Варочные панели",
+                "Кухонные вытяжки",
+                "Духовки"
+            ]
+        }]
+    },
+    {
+        "title": "Uy uchun idishlar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/posuda_dlya_doma.svg",
+        "textGroup": [{
+            "title": "OVQAT PISHIRISH UCHUN",
+            "text": [
+                "Сковородки",
+                "Кухонные принадлежности",
+                "Ножи и наборы ножей",
+                "Сковородки-блинная",
+                "Формы для выпечки",
+                "Сковородки-Гриль",
+                "Сковородки-ВОК",
+                "Наборы посуды"
+            ]
+        }, {
+            "title": "STOL UCHUN IDISHLAR",
+            "text": [
+                "Кувшины и графины",
+                "Блюдца и салатницы",
+                "Столовые сервизы",
+                "Стеклянные банки",
+                "Бокалы и фужеры",
+                "Столовые наборы",
+                "Кружки и чашки",
+                "Молочники"
+            ]
+        }, {
+            "title": "YORDAMCHI IDISHLAR",
+            "text": [
+                "Фильтры для воды",
+                "Жаростойкая посуда",
+                "Крышки для посуды",
+                "Сменный фильтр для воды",
+                "Контейнеры и ланч-боксы"
+            ]
+        }]
+    },
+    {
+        "title": "Avtomobil uchun mahsulotlar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/tovar_dlya_avto.svg",
+        "textGroup": [{
+            "title": "AVTOMOBIL SIGNALIZATSIYALARI",
+            "text": [
+                "Автосигнализации Magicar",
+                "Автосигнализации StarLine"
+            ]
+        }, {
+            "title": "RADAR DETEKTORLAR",
+            "text": [
+                "Радар детектор Tomahawk",
+                "Inspector радар детектор",
+                "Neoline радар детектор",
+                "Intego радар детектор"
+            ]
+        }, {
+            "title": "AVTOMOBIL KUCHAYTIRGICHLARI"
+        }]
+    },
+    {
+        "title": "Iqlim texnikasi",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/klimaticheskaya_texnika.svg",
+        "textGroup": [{
+            "title": "KONDITSIONERLAR",
+            "text": [
+                "Сплит-системы",
+                "Кондиционеры Samsung",
+                "Кондиционеры Sitronic",
+                "Кондиционеры Avalon",
+                "Кондиционеры Artel",
+                "Кондиционеры Beko",
+                "Кондиционеры AUX"
+            ]
+        }, {
+            "title": "ISITGICH",
+            "text": [
+                "Обогреватели Mega",
+                "Обогреватели Emerald",
+                "Обогреватели ARDESTO",
+                "Обогреватели Electrolux",
+                "Масляный обогреватель",
+                "Электрические радиаторы",
+                "Электрические обогреватели"
+            ]
+        }, {
+            "title": "NAMLAGICHLAR",
+            "text": [
+                "Philips увлажнители",
+                "Baseus увлажнители",
+                "Polaris увлажнители",
+                "VITEK увлажнители",
+                "Tefal увлажнители",
+                "Artel увлажнители"
+            ]
+        }]
+    },
+    {
+        "title": "Televizorlar va telekartalar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/televizori_i_telekarti.svg",
+        "textGroup": [{
+            "title": "BARCHA TELEVIZORLAR",
+            "text": [
+                "Телевизоры",
+                "Телевизоры Panasonic",
+                "Телевизоры Samsung",
+                "Телевизоры Premier",
+                "Телевизоры Shivaki",
+                "Телевизоры Roison",
+                "Телевизоры Philips",
+                "Телевизоры Gazer"
+            ]
+        }, {
+            "title": "KRONSHTEYNLAR"
+        }, {
+            "title": "TELEVIZOR PULTLARI"
+        }, {
+            "title": "TV VA KINOGA OBUNA"
+        }]
+    },
+    {
+        "title": "Telefonlar va gadjetlar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/telefoni_i_gatjeti.svg",
+        "textGroup": [{
+            "title": "GADJETLAR",
+            "text": [
+                "IP-камеры",
+                "Смарт часы",
+                "Умные напольные",
+                "Фитнес браслеты",
+                "Очки виртуальной реальности",
+                "Рации и радиостанции"
+            ]
+        }, {
+            "title": "TELEFON AKSESSUARLARI",
+            "text": [
+                "Внешние аккумуляторы",
+                "Держатели для смартфонов",
+                "Зарядные устройства",
+                "Игровые аксессуары",
+                "USB кабель для телефона",
+                "Карты памяти",
+                "Моноподы для селфи"
+            ]
+        }, {
+            "title": "TELEFONLAR",
+            "text": [
+                "Смартфоны",
+                "Vivo",
+                "OPPO",
+                "Смартфоны Apple",
+                "Смартфоны Samsung",
+                "Honor",
+                "Xiaomi"
+            ]
+        }, {
+            "title": "PLANSHETLAR"
+        }]
+    },
+    {
+        "title": "Kompyuter texnikasi",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/komputernaya_texnika.svg",
+        "textGroup": [{
+            "title": "KOMPYUTER AKSESSUARLARI",
+            "text": [
+                "Роутеры Wi-Fi",
+                "Батарейки",
+                "Компьютерная мебель",
+                "Беспроводные мыши",
+                "Антибликовые очки",
+                "Клавиатуры",
+                "Переходники",
+                "Рюкзаки"
+            ]
+        }, {
+            "title": "FLESH XOTIRA"
+        }, {
+            "title": "KOMPYUTER KOLONKALARI",
+            "text": [
+                "Edifier колонки"
+            ]
+        }, {
+            "title": "MONOBLOKLAR"
+        }]
+    },
+    {
+        "title": "Audiotexnika va Hi - Fi",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/audiotexnika_i_hifi.svg",
+        "textGroup": [{
+            "title": "UY KINOTEATRLARI"
+        }, {
+            "title": "SIMSIZ KOLONKALAR",
+            "text": [
+                "Портативная колонка",
+                "Беспроводные колонки LG",
+                "Беспроводные колонки JBL",
+                "Беспроводные колонки Awei",
+                "Беспроводные колонки Edifier",
+                "Беспроводные колонки VIDVIE",
+                "Беспроводные колонки Remax"
+            ]
+        }, {
+            "title": "KOMPYUTER KALONKALARI"
+        }]
+    },
+    {
+        "title": "Go 'zallik va salomatlik",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/krasota_i_zdorove.svg",
+        "textGroup": [{
+            "title": "MULTISTAYLERLAR",
+            "text": [
+                "Мультистайлер для волос",
+                "Плойки",
+                "Утюжки",
+                "2 в 1 мультистайлеры",
+                "Philips мультистайлеры",
+                "Polaris мультистайлеры"
+            ]
+        }, {
+            "title": "SOCH TEKISLOVCHI DAZMOLLAR",
+            "text": [
+                "Выпрямители",
+                "Выпрямитель Braun",
+                "Выпрямитель Polaris",
+                "Выпрямитель Philips",
+                "Выпрямитель Sencor",
+                "Выпрямитель CALOR",
+                "Выпрямитель Gorenj"
+            ]
+        }, {
+            "title": "SOCH KESGICH",
+            "text": [
+                "Домашние машинки для стрижки",
+                "Машинки с насадками",
+                "Машинки для стрижки Rowenta",
+                "Машинки для стрижки Philips",
+                "Машинки для стрижки Polaris",
+                "Машинки для стрижки Braun"
+            ]
+        }, {
+            "title": "TRIMMERLAR",
+            "text": [
+                "Триммеры для бритья",
+                "Аккумуляторные триммеры",
+                "Триммеры для носа и ушей",
+                "Триммеры для бороды",
+                "Триммеры с насадкой",
+                "Триммеры для волос",
+                "Remington триммеры"
+            ]
+        }]
+    },
+    {
+        "title": "Bolalar uchun mahsulotlar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/tovati_dlya_detey.svg",
+        "textGroup": [{
+            "title": "BOLALAR MASHINALARI"
+        }, {
+            "title": "RADIO ENAGA"
+
+        }, {
+            "title": "BOLALAR ARAVACHALARI"
+        }]
+    },
+    {
+        "title": "Rasmlar va videolar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/foto_i_video.svg",
+        "textGroup": [{
+            "title": "RAQAMLI VIDEO KAMERALAR"
+        }, {
+            "title": "RAQAMLI KAMERALAR"
+        }, {
+            "title": "KAMERA AKSESSUARLARI"
+        }]
+    },
+    {
+        "title": "Sport va sevimli mashg 'ulot",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/spor_i_uvlichenye.svg",
+        "textGroup": [{
+            "title": "HOVUZLAR",
+            "text": [
+                "Каркасные бассейны",
+                "Надувные бассейны",
+                "Бассейны Intex",
+                "Детские надувные бассейны"
+            ]
+        }, {
+            "title": "GIROSKUTERLAR"
+        }, {
+            "title": "ELEKTROSAMOKATLAR"
+        }, {
+            "title": "MASHQ NIQOBI"
+        }]
+    },
+    {
+        "title": "O 'yin konsollari",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/igroviye_pristavki.svg",
+        "textGroup": [{
+            "title": "SONY PLAYSTATION"
+        }, {
+            "title": "MICROSOFT XBOX"
+        }, {
+            "title": "O'YIN DISKLARI"
+        }, {
+            "title": "JOYSTIKLAR"
+        }]
+    },
+    {
+        "title": "Maishiy mahsulotlar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/tovari_dlya_doma.svg",
+        "textGroup": [{
+            "title": "YOTOQXONA BUYUMLARI",
+            "text": [
+                "Одеяла и подушки",
+                "Текстиль для спальни"
+            ]
+        }, {
+            "title": "ELEKTR ASBOBLAR",
+            "text": [
+                "Дрели",
+                "Набор инструментов",
+                "Угловая шлифовальная машина",
+                "Стабилизатор напряжения"
+            ]
+        }, {
+            "title": "TO'QIMACHILIK",
+            "text": [
+                "Пледы",
+                "Одеяла",
+                "Подушки",
+                "Простыни",
+                "Наволочки",
+                "Полотенца",
+                "Покрывала"
+            ]
+        }, {
+            "title": "SOVUTISH AKKUMULYATORI"
+        }]
+    },
+    {
+        "title": "Aksiyalar va сhegirmalar",
+        "img": "https://backend.texnomart.uz/files/global/new-photo/img/category_for_pc/aksii_i_skidki.svg",
+        "textGroup": [{
+            "title": "OLDINDAN BUYURTMA"
+        }, {
+            "title": "TAVSIYA ETAMIZ"
+        }, {
+            "title": "XIT SAVDO"
+        }, {
+            "title": "NOYOB NARX"
+        }]
+    }
+]

@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../../assets//font/Roboto-Medium.70ace38.woff2');
+}
+
+.payment {
+    max-width: 1448px;
+    padding: 30px 20px 50px 20px;
+    margin: 0 auto;
+}
+
+.payment-title {
+    margin-bottom: 24px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    font-family: 'Roboto-Medium';
+    color: #333;
+}
+
+.payment-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+    border-radius: 6px;
+    border: 1px solid #ececec;
+}
+
+.payment-card {
+    width: 20%;
+    padding: 0 16px;
+    border-left: 1px solid #ececec;
+    min-height: 160px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.payment-images-div {
+    margin: 0 auto 18px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    background: #f7f7f7;
+}
+
+.payment-data-title {
+    line-height: 110%;
+    margin-bottom: 10px;
+    font-weight: 500;
+    color: #333;
+    font-size: 16px;
+    font-family: 'Roboto-Medium';
+}
+
+.payment-data-text {
+    max-width: 225px;
+    margin: 0 auto;
+    font-size: 13px;
+    line-height: 16px;
+    color: #333;
+}
+
+.payment-media-div {
+    display: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width:1024px) {
+    .payment-content {
+        display: none;
+    }
+
+    .payment-media-div {
+        display: block;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .payment-title {
+        font-size: 20px;
+        line-height: 20px;
+    }
+}

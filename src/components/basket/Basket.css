@@ -1,0 +1,22 @@
+.basket-overlow {
+    width: 100vw;
+    height: 100vh;
+    background-color: #0000006f;
+    position: absolute;
+    top: 0;
+    z-index: 245;
+}
+
+.basket-container {
+    width: 900px;
+    height: 400px;
+    background-color: white;
+    margin: 0;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: 250;
+    border-radius: 10px;
+}

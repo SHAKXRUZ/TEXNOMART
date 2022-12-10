@@ -1,0 +1,133 @@
+.banner-carucel {
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.swiper {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden;
+  list-style: none;
+  padding: 0;
+  z-index: 1;
+}
+
+.container-slider {
+  width: 100vw;
+  height: 50vh;
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  transition: opacity ease-in-out 0.4s;
+  background-position: center;
+  background-size: cover;
+}
+
+.slide>img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.btn-slide {
+  width: 48px;
+  height: 48px;
+  border-radius: 100%;
+  background-color: #fff !important;
+  border: 1px solid #ececec;
+  position: absolute;
+  margin: 0px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icons {
+  font-size: 20px;
+}
+
+.prev {
+  top: 50%;
+  left: 20px;
+  transform: translateY(-60%);
+}
+
+.next {
+  top: 50%;
+  right: 20px;
+  transform: translateY(-60%);
+}
+
+
+.container-dots {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  margin: 0 5px;
+  background-color: #333;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color: #fff;
+  border-color: #333;
+}
+
+.dataSliderMedia {
+  display: none;
+}
+
+@media only screen and (max-width:768px) {
+  .container-slider {
+    height: 80vh;
+  }
+
+  .btn-slide {
+    display: none;
+  }
+
+  .media-div {
+    display: none;
+  }
+
+  .dataSliderMedia {
+    display: block;
+  }
+
+  .container-slider {
+    width: 100vw;
+    height: 80vh;
+  }
+}
+
+@media only screen and (max-width:700px) {
+  .slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transition: opacity ease-in-out 0.4s;
+    background-position: 100%;
+    background-size: cover;
+  }
+
+  .slide>img {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+  }
+}

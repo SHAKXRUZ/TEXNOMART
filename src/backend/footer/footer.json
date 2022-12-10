@@ -1,0 +1,36 @@
+[{
+    "title": "Kompaniya",
+    "textGroup": [{
+        "text": "B2B savdosi"
+    }, {
+        "text": "Biz haqimizda"
+    }, {
+        "text": "Yangiliklar va sharhlar"
+    }, {
+        "text": "IMEI ni tekshirish"
+    }]
+}, {
+    "title": "Ma'lumot",
+    "textGroup": [{
+        "text": "Bepul yetkazib berish"
+    }, {
+        "text": "Bonus tizimi"
+    }, {
+        "text": "Texnomartda ishlash"
+    }, {
+        "text": "Shaxsiy kabinet"
+    }, {
+        "text": "Aloqa raqamlari"
+    }]
+}, {
+    "title": "Haridorga yordam",
+    "textGroup": [{
+        "text": "Muddatli to'lovga sotib olish"
+    }, {
+        "text": "Maxsulotni qaytarish"
+    }, {
+        "text": "Mahsulotlar uchun kafolat"
+    }, {
+        "text": "Ko'p so'raladigan savollar"
+    }]
+}]
