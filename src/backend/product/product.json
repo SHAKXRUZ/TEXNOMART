@@ -1,5 +1,5 @@
 [{
-    "Zo'rnarx": [{
+    "Zurnarx": [{
         "id": "1",
         "img": "https://backend.texnomart.uz/images/gallery/product/102563/32816/detail.jpg",
         "info": "Smartfon Samsung Galaxy A73 6/128Gb Yashil (Mentol)",
@@ -50,9 +50,9 @@
 
     "Xitsavdo": [{
         "id": "9",
-        "img": "https://backend.texnomart.uz/images/gallery/product/95602/28913/detail.jpg",
-        "info": "Gril DeLonghi SGH1020D",
-        "price": "3 750 000 so'm"
+        "img": "https://backend.texnomart.uz/images/gallery/product/105143/36156/detail.jpg",
+        "info": "Smartfon Xiaomi Mi 12T 8/128Gb Qora",
+        "price": "5 955 000 so'm"
     }, {
         "id": "10",
         "img": "https://backend.texnomart.uz/images/gallery/product/94302/23464/detail.jpg",
@@ -75,19 +75,19 @@
         "price": "360 000 so'm"
     }, {
         "id": "14",
-        "img": "https://backend.texnomart.uz/images/gallery/product/96861/28763/detail.jpg",
-        "info": "Bosch MUMS2EB01 Oshxona kambayni",
-        "price": "2 419 000 so'm"
+        "img": "https://backend.texnomart.uz/images/gallery/product/105140/36137/detail.jpg",
+        "info": "Smartfon Xiaomi Mi 12T Pro 8/256Gb Moviy",
+        "price": "7 670 000 so'm"
     }, {
         "id": "15",
-        "img": "https://backend.texnomart.uz/images/gallery/product/93881/21112/detail.jpg",
-        "info": "Oshxona stoli to`plami Luminarc Minuet",
-        "price": "1 206 000 so'm"
+        "img": "https://backend.texnomart.uz/images/gallery/product/92087/22539/detail.jpg",
+        "info": "Sharbat chiqargich Braun J300",
+        "price": "1 777 000 so'm"
     }, {
         "id": "16",
-        "img": "https://backend.texnomart.uz/images/gallery/product/95550/26168/detail.jpg",
-        "info": "Televizor Samsung UE32T4500 Smart",
-        "price": "3 000 000 so'm"
+        "img": "https://backend.texnomart.uz/images/gallery/product/95096/25563/detail.jpg",
+        "info": "Changyutgich Tefal TW7690EA",
+        "price": "3 680 000 so'm"
     }],
 
 
