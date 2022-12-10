@@ -1,0 +1,66 @@
+.bactetop {
+    position: absolute;
+    right: 25px;
+    bottom: 210px;
+    width: 48px;
+    height: 48px;
+    background-color: #f7f7f7;
+    border: 1px solid #ececec;
+    box-shadow: 0 3px 5px rgb(0 0 0 / 6%);
+    border-radius: 50px;
+    position: fixed;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 24;
+}
+
+.bactetop-icons {
+    font-size: 25px;
+}
+
+.telegram-fixed {
+    width: 48px;
+    height: 48px;
+    background-color: #f7f7f7;
+    border: 1px solid #ececec;
+    box-shadow: 0 3px 5px rgb(0 0 0 / 6%);
+    border-radius: 50px;
+    position: fixed;
+    right: 25px;
+    bottom: 145px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 23;
+    cursor: pointer;
+}
+
+.telegram_images {
+    width: 24px;
+    height: 24px;
+}
+
+.chat-div {
+    width: 65px;
+    height: 65px;
+    background: #eec200;
+    box-shadow: 0 3px 5px rgb(0 0 0 / 6%);
+    border-radius: 50px;
+    position: fixed;
+    right: 15px;
+    bottom: 60px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    cursor: pointer;
+}
+
+.chat-icons {
+    color: #fff;
+    font-size: 30px;
+}

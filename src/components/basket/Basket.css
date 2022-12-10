@@ -20,3 +20,9 @@
     z-index: 250;
     border-radius: 10px;
 }
+
+@media only screen and (max-width:1080px) {
+    .basket {
+        display: none;
+    }
+}

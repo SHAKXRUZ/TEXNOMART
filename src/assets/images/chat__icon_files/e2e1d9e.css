@@ -1,0 +1,1 @@
+.accordion__content{transition:height .3s linear}.accordion__trigger{cursor:pointer;display:flex;align-items:center;justify-content:space-between;width:100%}.accordion-enter-active,.accordion-leave-active{will-change:height,opacity;overflow:hidden}.accordion-enter,.accordion-leave-to{height:0!important}
