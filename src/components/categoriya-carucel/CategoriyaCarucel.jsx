@@ -22,6 +22,28 @@ const CategoriyaCarucel = () => {
                     pagination={{
                         clickable: true
                     }}
+
+                    breakpoints={{
+                        200: {
+                            slidesPerView: 1
+                        },
+                        400: {
+                            slidesPerView: 2
+                        },
+                        800: {
+                            slidesPerView: 3
+                        },
+                        1000: {
+                            slidesPerView: 4
+                        },
+                        1200: {
+                            slidesPerView: 5
+                        },
+                        1350: {
+                            slidesPerView: 6
+                        }
+                    }}
+
                     navigation={true}
                     modules={[Navigation]}
                     className="mySwiper">

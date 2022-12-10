@@ -26,7 +26,36 @@ export default function App() {
         pagination={{
           clickable: true
         }}
-      
+        breakpoints={{
+          200: {
+            slidesPerView: 1
+          },
+          280: {
+            slidesPerView: 2
+          },
+          400: {
+            slidesPerView: 3
+          },
+          520: {
+            slidesPerView: 4
+          },
+          550: {
+            slidesPerView: 3
+          },
+          700: {
+            slidesPerView: 4
+          },
+          900: {
+            slidesPerView: 5
+          },
+          1100: {
+            slidesPerView: 6
+          },
+          1350: {
+            slidesPerView: 8
+          }
+        }}
+
         navigation={true}
         modules={[Navigation]}
         className="mySwiper"
