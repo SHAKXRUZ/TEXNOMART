@@ -11,6 +11,7 @@ import { Overlay } from "./components/utils/index";
 import CategoriyaCarucel from './components/categoriya-carucel/CategoriyaCarucel';
 import Login from './components/login/Login';
 import Basket from './components/basket/Basket';
+import Need from './components/need/Need';
 const App = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [loginOpen, setLoginOpen] = useState(false);
@@ -25,6 +26,7 @@ const App = () => {
   }, [isSidebarOpen, loginOpen, basketOpen]);
   return (
     <div className='App'>
+      <Need />
       <Header setBasketOpen={setBasketOpen} setLoginOpen={setLoginOpen} isSidebarOpen={isSidebarOpen} setIsSidebarOpen={setIsSidebarOpen} />
       {loginOpen ? <Login setLoginOpen={setLoginOpen} /> : null}
       <Sidebar isSidebarOpen={isSidebarOpen} setIsSidebarOpen={setIsSidebarOpen} />
