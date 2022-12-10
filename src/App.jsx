@@ -12,6 +12,7 @@ import CategoriyaCarucel from './components/categoriya-carucel/CategoriyaCarucel
 import Login from './components/login/Login';
 import Basket from './components/basket/Basket';
 import Need from './components/need/Need';
+import Product from './components/product/Product';
 const App = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [loginOpen, setLoginOpen] = useState(false);
@@ -35,6 +36,7 @@ const App = () => {
       <HomeCarucel />
       <BrendCarucel />
       <CategoriyaCarucel />
+      <Product />
       <Apps />
       <Payment />
       <Footer />

@@ -4,7 +4,7 @@ import { IoMdChatboxes } from 'react-icons/io';
 import { HiArrowNarrowUp } from 'react-icons/hi';
 import { useState, useEffect } from 'react';
 const Need = () => {
-    const [bactetopOpen, setBactetopOpen] = useState(tr);
+    const [bactetopOpen, setBactetopOpen] = useState(true);
 
     const scrollToTop = () => {
         window.scrollTo({

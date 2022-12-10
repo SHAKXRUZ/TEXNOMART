@@ -42,86 +42,22 @@
     color: #333;
 }
 
-@media only screen and (max-width:1150px) {
-    .categoriy-card {
-        flex-direction: column;
-        height: 100px;
-    }
-
+@media only screen and (max-width:800px) {
     .cate-text {
-        width: 100%;
-        text-align: center;
-        margin-left: 0px;
-    }
-}
-
-@media only screen and (max-width:850px) {
-    .categoriy-card {
-        height: 80px;
+        margin-left: 15px;
     }
 
     .cate-images {
-        width: 30px;
-        height: 30px;
-    }
-
-    .cate-text {
-        font-size: 10px;
-        line-height: 1rem;
-    }
-}
-
-@media only screen and (max-width:768px) {
-    .categoriya {
-        padding: 0px 10px;
-    }
-}
-
-@media only screen and (max-width:675px) {
-    .cate-images {
-        width: 20px;
-        height: auto;
-    }
-
-    .cate-text {
-        font-size: 8px;
-        line-height: 10px;
-    }
-}
-
-@media only screen and (max-width:550px) {
-
-    .categoriy-card {
-        padding: 0px 10px;
-    }
-
-    .cate-images {
-        width: 20px;
-        height: 20px;
-    }
-}
-
-@media only screen and (max-width:450px) {
-    .categoriy-card {
-        padding: 0px;
-        border: none;
-        background: none;
-        box-shadow: 0px 0px 0px white;
-    }
-
-    .cate-images {
-        width: 15px;
-        height: 15px;
-    }
-
-    .cate-text {
-        font-size: 8px;
+        width: 40px;
+        height: 40px;
     }
 
     .categoriy-title {
-        font-weight: 400;
-        font-size: 12px;
-        line-height: 15px;
-        padding: 0px 0px 5px 0px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .categoriy-card {
+        padding: 15px 20px;
     }
 }
