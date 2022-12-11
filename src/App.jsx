@@ -18,7 +18,7 @@ const App = () => {
   const [loginOpen, setLoginOpen] = useState(false);
   const [basketOpen, setBasketOpen] = useState(false);
   useEffect(() => {
-    if (isSidebarOpen === true || loginOpen === true || basketOpen) {
+    if (isSidebarOpen === true || loginOpen === true || basketOpen === true) {
       document.body.style.overflow = "hidden";
     }
     else {
