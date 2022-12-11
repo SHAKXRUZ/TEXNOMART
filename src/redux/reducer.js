@@ -1,7 +1,7 @@
 const initialState = {
     cardData: []
 }
-const cartList = (state = [], action) => {
+const cartlar = (state = [], action) => {
     switch (action.type) {
         case "CART":
             return [
@@ -17,8 +17,7 @@ const cartList = (state = [], action) => {
 const initialNumberState = {
     number: 0
 }
-
-const cartNumberProducts = (state = initialState, action) => {
+const cartsoni = (state = initialState, action) => {
     switch (action.type) {
         case "CART":
             return {
@@ -30,6 +29,6 @@ const cartNumberProducts = (state = initialState, action) => {
     }
 }
 export {
-    cartList,
-    cartNumberProducts
+    cartlar,
+    cartsoni
 }

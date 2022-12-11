@@ -1,5 +1,5 @@
 .basket-overlow {
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-color: #0000006f;
     position: absolute;
@@ -9,7 +9,7 @@
 
 .basket-container {
     width: 900px;
-    height: 400px;
+    height: 700px;
     background-color: white;
     margin: 0;
     position: fixed;
@@ -19,6 +19,35 @@
     transform: translate(-50%, -50%);
     z-index: 250;
     border-radius: 10px;
+    overflow: auto;
+}
+
+.basket-container::-webkit-scrollbar {
+    width: 10px;
+    background-color: transparent;
+}
+
+.basket-container::-webkit-scrollbar-thumb {
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.basket-cards {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 50px 150px;
+    align-items: center;
+}
+
+.baskets-images {
+    width: 150px;
+}
+
+.basket-text-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 @media only screen and (max-width:1080px) {

@@ -1,7 +1,14 @@
-import { combineReducers } from "redux";
-import { cartList, cartNumberProducts } from "./reducer";
+import {
+    combineReducers
+} from "redux";
+import {
+    cartlar,
+    cartsoni
+} from "./reducer";
 const combined = combineReducers({
-    cartInfo: cartList,
-    amountInfo: cartNumberProducts
+    cartInfo: cartlar,
+    amountInfo: cartsoni
 })
-export { combined }
+export {
+    combined
+}
