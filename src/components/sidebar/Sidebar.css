@@ -42,6 +42,8 @@
 
 .sidebar-logo {
     cursor: pointer;
+    width: 160px;
+    height: 35px;
 }
 
 .sidebar-header-bottom {

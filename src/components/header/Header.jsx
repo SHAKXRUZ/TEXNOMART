@@ -13,9 +13,11 @@ import { BsTelephone } from 'react-icons/bs';
 import { BiMicrophone } from 'react-icons/bi';
 import { GrSearch } from 'react-icons/gr';
 import { AiOutlineMenu } from 'react-icons/ai';
+import { v4 as uuidv4 } from 'uuid';
+
 // import images
-import headerTop_logo from '../../assets/images/headerTop_logo.svg';
-import headerCenter_logo from '../../assets/images/headerCenter_logo.svg';
+import headerTop_logo from '../../assets/images/texnomax.webp';
+import headerCenter_logo from '../../assets/images/texnomax.webp';
 import headerCenterRight_icon from '../../assets/images/headerCenterRight_icon.svg';
 import { useSelector } from 'react-redux';
 const Header = ({ setIsSidebarOpen, setLoginOpen, setBasketOpen }) => {
@@ -38,7 +40,7 @@ const Header = ({ setIsSidebarOpen, setLoginOpen, setBasketOpen }) => {
                             <div className='header-region-value'>
                                 {
                                     headerTopRegionData.map(data =>
-                                        <p className='header-top-data-text' onClick={() => setRegionValue(data.regionName)}>{data.regionName}</p>
+                                        <p key={uuidv4()} className='header-top-data-text' onClick={() => setRegionValue(data.regionName)}>{data.regionName}</p>
                                     )
                                 }
                             </div>
@@ -186,10 +188,10 @@ const Header = ({ setIsSidebarOpen, setLoginOpen, setBasketOpen }) => {
                     <div className="catalog-container-title-group">
                         {
                             catalogData.map((cata, index) =>
-                                <div style={catalogIndex === index ? { backgroundColor: "rgba(251, 193, 0, .2)" } : null} onMouseMove={() => setCatalogIndex(index)} className='cata-title-content-div'>
-                                    <div className='cata-img-text-group'>
-                                        <img src={cata.img} alt="" />
-                                        <p className='data-cata-title'>{cata.title}</p>
+                                <div key={uuidv4()} style={catalogIndex === index ? { backgroundColor: "rgba(251, 193, 0, .2)" } : null} onMouseMove={() => setCatalogIndex(index)} className='cata-title-content-div'>
+                                    <div key={uuidv4()} className='cata-img-text-group'>
+                                        <img key={uuidv4()} src={cata.img} alt="" />
+                                        <p key={uuidv4()} className='data-cata-title'>{cata.title}</p>
                                     </div>
                                     <IoIosArrowForward className='cata-icons' />
                                 </div>
@@ -201,16 +203,16 @@ const Header = ({ setIsSidebarOpen, setLoginOpen, setBasketOpen }) => {
                         catalogData.map((res, index) =>
                             catalogIndex === index ? <div className='catalog-texts-container'>
                                 <div className='catalog-texts-content'>
-                                    <h3 className='catalog-texts-title'>{res.title}</h3>
+                                    <h3 v className='catalog-texts-title'>{res.title}</h3>
 
                                     <div className='catalog-texts-text-div'>
                                         {
                                             res.textGroup.map(tex =>
                                                 <div className='catalog-texts-card'>
-                                                    <h3 className='catalog-texts-div-titles'>{tex?.title}</h3>
+                                                    <h3 key={uuidv4()} className='catalog-texts-div-titles'>{tex?.title}</h3>
                                                     {
                                                         tex.text?.map(i =>
-                                                            <p className='catalog-texts-div-texts'>{i}</p>
+                                                            <p key={uuidv4()} className='catalog-texts-div-texts'>{i}</p>
                                                         )
                                                     }
                                                 </div>
