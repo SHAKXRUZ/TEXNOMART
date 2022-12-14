@@ -1,6 +1,6 @@
 import './Sidebar.css';
 import { FiX } from 'react-icons/fi';
-import sidebar_logo from '../../assets/images/sidebar_logo.svg';
+import sidebar_logo from '../../assets/images/texnomax.webp';
 import sidebarImg_icons from '../../assets/images/sidebarImg_icons.svg';
 import { useState } from 'react';
 import { IoIosArrowDown, IoIosArrowUp } from 'react-icons/io';

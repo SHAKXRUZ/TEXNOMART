@@ -16,8 +16,8 @@ import { AiOutlineMenu } from 'react-icons/ai';
 import { v4 as uuidv4 } from 'uuid';
 
 // import images
-import headerTop_logo from '../../assets/images/headerTop_logo.svg';
-import headerCenter_logo from '../../assets/images/headerCenter_logo.svg';
+import headerTop_logo from '../../assets/images/texnomax.webp';
+import headerCenter_logo from '../../assets/images/texnomax.webp';
 import headerCenterRight_icon from '../../assets/images/headerCenterRight_icon.svg';
 import { useSelector } from 'react-redux';
 const Header = ({ setIsSidebarOpen, setLoginOpen, setBasketOpen }) => {
@@ -189,7 +189,7 @@ const Header = ({ setIsSidebarOpen, setLoginOpen, setBasketOpen }) => {
                         {
                             catalogData.map((cata, index) =>
                                 <div key={uuidv4()} style={catalogIndex === index ? { backgroundColor: "rgba(251, 193, 0, .2)" } : null} onMouseMove={() => setCatalogIndex(index)} className='cata-title-content-div'>
-                                    <div key={uuidv4()}  className='cata-img-text-group'>
+                                    <div key={uuidv4()} className='cata-img-text-group'>
                                         <img key={uuidv4()} src={cata.img} alt="" />
                                         <p key={uuidv4()} className='data-cata-title'>{cata.title}</p>
                                     </div>
