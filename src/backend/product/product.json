@@ -1,42 +1,42 @@
 [{
     "Zurnarx": [{
         "id": "1",
-        "img": "https://backend.texnomart.uz/images/gallery/product/102563/32816/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356882/196147/cf3f9460-ca4c-4c05-a6e2-98f165ff4d26-medium.webp",
         "info": "Smartfon Samsung Galaxy A73 6/128Gb Yashil (Mentol)",
         "price": "6 299 000 so'm"
     }, {
         "id": "2",
-        "img": "https://backend.texnomart.uz/images/gallery/product/104717/34926/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356881/196156/d82d8ee9-6396-42b7-9c57-24b04cd14cb3-medium.webp",
         "info": "Smartfon Samsung Galaxy Z Fold 4 8/256Gb Gray",
         "price": "22 049 000 so'm"
     }, {
         "id": "3",
-        "img": "https://backend.texnomart.uz/images/gallery/product/101271/31675/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356884/196206/bc4b6649-5b74-4102-9d35-a8058de2e140-medium.webp",
         "info": "Smartfon Samsung Galaxy A53 6/128Gb To`q sariq rang",
         "price": "5 196 000 so'm"
     }, {
         "id": "4",
-        "img": "https://backend.texnomart.uz/images/gallery/product/105120/36058/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356890/196183/f7de1798-e2da-4962-998a-6a6d315669c4-medium.webp",
         "info": "Smartfon Vivo V25 8/256Gb Qora",
         "price": "5 646 000 so'm"
     }, {
         "id": "5",
-        "img": "https://backend.texnomart.uz/images/gallery/product/102699/33082/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356887/196198/26971eb8-5fb5-4a41-8cf7-e926017b917c-medium.webp",
         "info": "Smartfon Honor X9 6/128Gb Qora",
         "price": "3 674 000 so'm"
     }, {
         "id": "6",
-        "img": "https://backend.texnomart.uz/images/gallery/product/101365/32350/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356888/196195/3c898b83-fec6-480b-a559-4ac483609294-medium.webp",
         "info": "Smartfon OPPO Reno7 8/128 To`q sariq",
         "price": "4 324 000 so'm"
     }, {
         "id": "7",
-        "img": "https://backend.texnomart.uz/images/gallery/product/105072/35601/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356889/196191/43ff7fba-b95c-4061-b033-4db0543733d7-medium.webp",
         "info": "Smartfon OPPO А57s 4/64Gb Moviy",
         "price": "2 465 000 so'm"
     }, {
         "id": "8",
-        "img": "https://backend.texnomart.uz/images/gallery/product/100858/34683/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3568/356886/196200/8ca2a552-05f5-41f6-8171-5d8ab44efa0c-medium.webp",
         "info": "Smartfon Xiaomi Redmi Note 11S 6/128Gb Moviy",
         "price": "3 502 000 so'm"
     }],
@@ -50,42 +50,42 @@
 
     "Xitsavdo": [{
         "id": "9",
-        "img": "https://backend.texnomart.uz/images/gallery/product/105143/36156/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/825/82500/159643/3d6206b4-4dd5-4d72-84e9-16100620d59e-medium.jpg",
         "info": "Smartfon Xiaomi Mi 12T 8/128Gb Qora",
         "price": "5 955 000 so'm"
     }, {
         "id": "10",
-        "img": "https://backend.texnomart.uz/images/gallery/product/94302/23464/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3550/355094/186937/dcee4730-aaaf-4c41-9db1-286abe23ccd3-medium.jpg",
         "info": "Blender Moulinex DD653832",
         "price": "920 000 so'm"
     }, {
         "id": "11",
-        "img": "https://backend.texnomart.uz/images/gallery/product/94387/22747/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/1008/100871/178232/319c516d-da8e-4ee3-a06f-f4194a3abe0f-medium.jpg",
         "info": "Royal Stone kostryulkalar to'plami",
         "price": "2 789 000 so'm"
     }, {
         "id": "12",
-        "img": "https://backend.texnomart.uz/images/gallery/product/88789/18977/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/1000/100057/177325/346535f2-c97c-4cd4-bb62-06fdb5e33246-medium.jpg",
         "info": "Dastakli kofe qaynatgich Polaris PCM 1528AE",
         "price": "1 360 000 so'm"
     }, {
         "id": "13",
-        "img": "https://backend.texnomart.uz/images/gallery/product/103982/34251/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3551/355195/187250/73c0fcdf-0f7f-4607-abcb-03076e987e45-medium.jpg",
         "info": "Soch quritgich Rowenta CV3620F0",
         "price": "360 000 so'm"
     }, {
         "id": "14",
-        "img": "https://backend.texnomart.uz/images/gallery/product/105140/36137/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3547/354717/186056/8eae16ab-84a7-4027-912c-d0dd942e3aa9-medium.jpg",
         "info": "Smartfon Xiaomi Mi 12T Pro 8/256Gb Moviy",
         "price": "7 670 000 so'm"
     }, {
         "id": "15",
-        "img": "https://backend.texnomart.uz/images/gallery/product/92087/22539/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/829/82912/189956/2d20d5aa-70ce-43df-9e49-5d3777e4db80-medium.webp",
         "info": "Sharbat chiqargich Braun J300",
         "price": "1 777 000 so'm"
     }, {
         "id": "16",
-        "img": "https://backend.texnomart.uz/images/gallery/product/95096/25563/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/955/95570/174459/fa30aa55-7360-4ba4-88f6-3b1736f3c580-medium.jpg",
         "info": "Changyutgich Tefal TW7690EA",
         "price": "3 680 000 so'm"
     }],
@@ -100,42 +100,42 @@
 
     "Tavsiyaetamiz": [{
         "id": "17",
-        "img": "https://backend.texnomart.uz/images/gallery/product/104750/35239/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3548/354802/186331/45531a3b-1161-483c-8d29-459a40fdc273-medium.jpg",
         "info": "Aerofrityur Xiaomi MI Smart Air Fryer 3.5L EU",
         "price": "999 000 so'm"
     }, {
         "id": "18",
-        "img": "https://backend.texnomart.uz/images/gallery/product/104920/35418/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3557/355788/189425/5436a783-295c-4588-87e8-f864f3eefaf3-medium.webp",
         "info": "Soch olish uskunasi MI BOOST WHITE SET",
         "price": "470 000 so'm"
     }, {
         "id": "19",
-        "img": "https://backend.texnomart.uz/images/gallery/product/105490/37418/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3553/355345/194268/adcccbf7-1576-4cb4-8926-e1a06ba945ae-medium.webp",
         "info": "Smartfon Honor X6 4/64Gb Moviy ummon",
         "price": "2 202 000 so'm"
     }, {
         "id": "20",
-        "img": "https://backend.texnomart.uz/images/gallery/product/104863/35163/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3565/356508/193731/6c16475e-b415-4ad1-82c1-4205cd7968b3-medium.webp",
         "info": "Qahva mashinasi DeLonghi ECAM350.50.SB",
         "price": "9 950 000 so'm"
     }, {
         "id": "21",
-        "img": "https://backend.texnomart.uz/images/gallery/product/96756/29865/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/3554/355444/187991/640b8b3d-3028-416f-a889-6a101f39e4b9-medium.jpg",
         "info": "Meva va sabzavotlar uchun quritgich Polaris PFD 2505",
         "price": "670 000 so'm"
     }, {
         "id": "22",
-        "img": "https://backend.texnomart.uz/images/gallery/product/101063/31508/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/809/80928/156101/d1b665d0-489f-4176-b67f-12232eeed80c-medium.jpg",
         "info": "WMC tools 1064 asboblar to‘plami",
         "price": "899 000 so'm"
     }, {
         "id": "23",
-        "img": "https://backend.texnomart.uz/images/gallery/product/93281/21928/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/1067/106715/192817/0503899f-0286-458c-b65c-ebc3c57c68da-medium.webp",
         "info": "Shivaki TM8113W Elektr choynaklar To`plam",
         "price": "880 000 so'm"
     }, {
         "id": "24",
-        "img": "https://backend.texnomart.uz/images/gallery/product/94030/22160/detail.jpg",
+        "img": "https://mini-io-api.texnomart.uz/catalog/product/848/84897/165229/000e8933-09e4-4f88-b3ef-f0a8b3345f7f-medium.jpg",
         "info": "Go`sht maydalagich Polaris PMG 2292AL Silent",
         "price": "3 780 000 so'm"
     }]
